@@ -2,6 +2,11 @@
 A dual channel brushless motor controller based on the RP2040 microcontroller
 
 The boards cost between $15 and $40 each depending on version and quantity.
+
+![A photo of the new modular design.](docs/R3_complete.jpg)
+![A photo of the new modular design, disassembled.](docs/R3_parts.jpg)
+![A photo of the new modular design with a motor.](docs/R3_motor.jpg)
+
 ```
 NOTE: This design is still changing. There is currently one board version in
 this repo. This is our dual CPU version with CAN bus and extra connectors for
@@ -30,6 +35,7 @@ Many thanks to [Daniel Theobald](https://www.twistedfields.com/blog). Without yo
 Thanks to all of our supporters on Open Collective. Your contributions are helping grow this project in to a sustainable open source organization.
 
 You can support this project yourself at our [Open Collective Page](https://opencollective.com/twisted-fields-research-collective).
+(UPDATE: Our fiscal host on Open Collective has closed. We are seeking a new host.)
 
 To learn more about Acorn, please see our [announcement blog post](https://community.twistedfields.com/t/introducing-acorn-a-precision-farming-rover-from-twisted-fields/).
 Or see a more recent [technical update here](https://community.twistedfields.com/t/march-2022-update-simulation-brakes-funding-and-navigation-improvements/202).
